@@ -16,5 +16,3 @@ The app requires the following permissions:
 
 ### Privacy concerns
 The App doesn't store or send any information anywhere. It has a local database to store all the emergency contacts. It sends SOS using SMS. It fetches the Location data and sends the coordinates.
-
-### Copyright (C) Sarthak Roy
